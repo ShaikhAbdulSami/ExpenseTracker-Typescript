@@ -1,0 +1,11 @@
+.fixed-bottom {
+    position: static;
+    text-align: center; 
+    background-color: rgba(f, f, f, 0.1); /* Black w/opacity/see-through */
+  
+  
+}
+.footer{
+    color: whitesmoke;
+    text-align: center;
+}
